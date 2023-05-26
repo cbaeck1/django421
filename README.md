@@ -10,12 +10,12 @@
 4. 점프 투 장고를 구현
 1) myapp 생성 : 게시판
     django-admin startapp myapp
-  common 생성 : 사용자관리, 로그인
+2) common 생성 : 사용자관리, 로그인
     django-admin startapp myapp
-2) 모델, 관리자 : ORM
-3) 폼
-4) 템플릿 : 태그, URL별칭, URL네임스페이스
-5) 템플릿 상속
-6) 부트스트랩 : Nav, Card
-7) 페이징처리
-8) 검색
+3) 모델, 관리자 : ORM
+4) 폼
+5) 템플릿 : 태그, URL별칭, URL네임스페이스
+6) 템플릿 상속
+7) 부트스트랩 : Nav, Card
+8) 페이징처리
+9) 검색
