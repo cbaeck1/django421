@@ -1,6 +1,6 @@
 # 장고프로젝트
 
-1 myproject 생성
+1. myproject 생성
   django-admin startproject myproject . 
   
 2. 생활코딩 대표적인 CRUD를 django로 구현
