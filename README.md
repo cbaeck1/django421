@@ -11,7 +11,7 @@
 1) myapp 생성 : 게시판
     django-admin startapp myapp
 2) common 생성 : 사용자관리, 로그인
-    django-admin startapp myapp
+    django-admin startapp common
 3) 모델, 관리자 : ORM
 4) 폼
 5) 템플릿 : 태그, URL별칭, URL네임스페이스
