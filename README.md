@@ -2,8 +2,11 @@
 
 1 myproject 생성
   django-admin startproject myproject . 
+  
 2. 생활코딩 대표적인 CRUD를 django로 구현
+
 3. 생활코딩 대표적인 CRUD를 django로 구현 (테이블)
+
 4. 점프 투 장고를 구현
 1) myapp 생성 : 게시판
     django-admin startapp myapp
