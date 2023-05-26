@@ -1,12 +1,12 @@
 # django421
-장고프로젝트
+# 장고프로젝트
 
-myproject 생성
+1 myproject 생성
 > django-admin startproject myproject .
 
-1. 생활코딩 대표적인 CRUD를 django로 구현
-2. 생활코딩 대표적인 CRUD를 django로 구현 (테이블)
-3. 점프 투 장고를 구현
+2. 생활코딩 대표적인 CRUD를 django로 구현
+3. 생활코딩 대표적인 CRUD를 django로 구현 (테이블)
+4. 점프 투 장고를 구현
 1) myapp 생성 : 게시판
 > django-admin startapp myapp
   common 생성 : 사용자관리, 로그인
